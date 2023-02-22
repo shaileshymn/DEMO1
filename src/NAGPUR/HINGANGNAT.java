@@ -7,6 +7,7 @@ public class HINGANGNAT
 		
 		
 		System.out.println("PAPA");
+		System.out.println("operation maa");
 		
 	}
 	
